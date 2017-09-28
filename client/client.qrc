@@ -1,0 +1,5 @@
+<RCC>
+    <qresource>
+        <file>../targets_schema.sql</file>
+    </qresource>
+</RCC>
